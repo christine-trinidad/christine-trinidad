@@ -30,8 +30,8 @@
 <p align="left">  
   
 - Agile project management (Scrum, Kanban, SAFe, XP)
+- FinTech (PSPs, APMs, P2P, E-commerce, Blockchain)
 - Data Analytics (DBs, ETL, Big Data)
-- FinTech (PSPs, APMs, E-commerce, Blockchains, P2P)
 - Interests (Travel, food, music)</p>
 
 
