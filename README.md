@@ -1,4 +1,10 @@
-<h1 align="left">APPLICATIONS</h3>
+Hey, what's up? <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"/>
+
+###
+
+<p align="left">Welcome to my GitHub profile... I love the entire process of project management and solving complex business problems leveraging in data analytics & business intelligence. I'm dedicated to crafting innovative solutions and pushing the boundaries of technology. Here, you'll find a mix of projects showcasing my skills in data visualization, from innovative applications to open-source contributions. Feel free to explore, fork, and collaborate. Thank you for stopping by! </p>
+
+<h2 align="left">APPLICATIONS</h3>
 
 ###
 
@@ -24,29 +30,15 @@
 
 ###
 
-<h1 align="left">👋 Hey, what's up?</h1>
-
-###
-
-<p align="left">Welcome to my GitHub profile... I love the entire process of project management and solving complex business problems leveraging in data analytics & business intelligence. I'm dedicated to crafting innovative solutions and pushing the boundaries of technology. Here, you'll find a mix of projects showcasing my skills in data visualization, from innovative applications to open-source contributions. Feel free to explore, fork, and collaborate. Thank you for stopping by!
-
-I'm currently working on:
-- My Portfolio projects
-- My Saas platforms
-- My Certifications</p>
-
 <h2 align="left">Ask me about</h2>
 
 ###
 
-<p align="left">- Agile project management (Scrum, Kanban, SAFe, XP)<br>- FinTech (PSPs, APMs, E-commerce, Blockchains, P2P) <br>- Data Analytics (DBs, ETL, Big Data)<br>- Interests (Travel, food, music)</p>
+<p align="left">
+  - Agile project management (Scrum, Kanban, SAFe, XP)
+  - FinTech (PSPs, APMs, E-commerce, Blockchains, P2P)
+  - Data Analytics (DBs, ETL, Big Data)
+  - Interests (Travel, food, music)</p>
 
-###
-
-<h2 align="left">I'm currently learning</h2>
-
-###
-
-<p align="left">- MLOPS<br>- AI Product Management<br>- Strategic Planning for Data<br>- Advanced AI for automation</p>
 
 ###
