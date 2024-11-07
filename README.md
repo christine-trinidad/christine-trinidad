@@ -28,15 +28,12 @@
 
 ###
 
-<p align="left">Welcome to my profile...
+<p align="left">Welcome to my GitHub profile... I love the entire process of project management and solving complex business problems leveraging in data analytics & business intelligence. I'm dedicated to crafting innovative solutions and pushing the boundaries of technology. Here, you'll find a mix of projects showcasing my skills in data visualization, from innovative applications to open-source contributions. Feel free to explore, fork, and collaborate. Thank you for stopping by!
 
 I'm currently working on:
-
 - My Portfolio projects
 - My Saas platforms
 - My Certifications</p>
-
-###
 
 <h2 align="left">Ask me about</h2>
 
