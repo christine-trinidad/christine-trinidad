@@ -1,4 +1,4 @@
-<h3 align="left">APPLICATIONS</h3>
+<h1 align="left">APPLICATIONS</h3>
 
 ###
 
@@ -28,15 +28,13 @@
 
 ###
 
-<p align="left">Welcome to my profile...</p>
+<p align="left">Welcome to my profile...
 
-###
+I'm currently working on:
 
-<h2 align="left">I'm currently working on</h2>
-
-###
-
-<p align="left">- My Portfolio projects<br>- My Saas platforms<br>- My Certifications</p>
+- My Portfolio projects
+- My Saas platforms
+- My Certifications</p>
 
 ###
 
