@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/christine-trinidad/christine-trinidad/blob/main/pexels-fauxels-3183132.jpg"  />
+  <img height="500" src="https://github.com/christine-trinidad/christine-trinidad/blob/main/pexels-fauxels-3183132.jpg"  />
 </div>
 
 ###
