@@ -32,9 +32,8 @@
 
 <h2 align="left">Ask me about</h2>
 
-###
-
 <p align="left">  
+  
 - Agile project management (Scrum, Kanban, SAFe, XP)
 - Data Analytics (DBs, ETL, Big Data)
 - FinTech (PSPs, APMs, E-commerce, Blockchains, P2P)
