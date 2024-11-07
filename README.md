@@ -1,8 +1,8 @@
-#Hey, what's up? <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"/>
+<h1 align="left"> Hey, what's up? <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"/>
 
 ###
 
-<p align="left">Welcome to my GitHub profile... I love the entire process of project management and solving complex business problems leveraging in data analytics & business intelligence. I'm dedicated to crafting innovative solutions and pushing the boundaries of technology. Here, you'll find a mix of projects showcasing my skills in data visualization, from innovative applications to open-source contributions. Feel free to explore, fork, and collaborate. Thank you for stopping by! </p>
+<p align="left">Welcome to my GitHub profile... I love the entire process of project management and solving complex business problems leveraging in data analytics & business intelligence. I'm dedicated to crafting innovative solutions and pushing the boundaries of technology. Here, you'll find a mix of projects showcasing my skills in data visualization, from innovative applications to open-source contributions. Feel free to explore and collaborate. Thank you for stopping by! </p>
 
 <h2 align="left">APPLICATIONS</h3>
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Ask me about</h2>
+<h2 align="left">ASK ME ABOUT</h2>
 
 <p align="left">  
   
