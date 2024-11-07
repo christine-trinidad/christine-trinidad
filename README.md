@@ -1,4 +1,4 @@
-Hey, what's up? <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"/>
+#Hey, what's up? <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30"/>
 
 ###
 
@@ -34,11 +34,11 @@ Hey, what's up? <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-j
 
 ###
 
-<p align="left">
-  - Agile project management (Scrum, Kanban, SAFe, XP)
-  - FinTech (PSPs, APMs, E-commerce, Blockchains, P2P)
-  - Data Analytics (DBs, ETL, Big Data)
-  - Interests (Travel, food, music)</p>
+<p align="left">  
+- Agile project management (Scrum, Kanban, SAFe, XP)
+- Data Analytics (DBs, ETL, Big Data)
+- FinTech (PSPs, APMs, E-commerce, Blockchains, P2P)
+- Interests (Travel, food, music)</p>
 
 
 ###
